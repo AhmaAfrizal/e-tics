@@ -59,3 +59,12 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## About e-tics
+
+Berawal dari sebuag project akhir ukk smk lahirlah website e-tics ini, 
+apa itu e-tics? e-tics adalah sebuah website tiketing konser sederhana yang saya kembangkan menggunakan framework laravel versi 8, dalam website ini memungkinkan untuk user membeli sebuah tiket dan juga mencari tau tentang konser yang sedang diselenggarakan, disini admin juga bervariasi jadi tidak hanya ada satu admin didalam website ini melainkan ada dua role admin yang saya masukkan, yaitu sueperadmin dan juga admin. Superadmin bertugas untuk memantau semua kegiatan yang ada didalam website ini seperti melihat laporan tentang berapa jumlah tiket yang ada, berapa jumlah acara yang ada, melihat logs tiket yang terjual, menambah data acara dan tiket, menambahkan admin dan lain-lain. Lalu tugas admin didalam website ini adalah untuk menginputkan acara dan tiket yang ada, jadi admin disini bertugas untuk membantu superadmin untuk mengisikan konten dalam web ini, user juga bisa meminta superadmin untuk menjadikannya admin jika user bersedia membantu menangani website ini.
+
+untuk fitur yang lain kalian bisa mendownload dan mencobanya sendiri, enjoy :)
+
+untuk pertanyaan kalian bisa ke email:afrizalahma5@gmail.com
